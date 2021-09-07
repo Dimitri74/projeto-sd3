@@ -1,4 +1,4 @@
-import ImgDsDark from 'assets/css/img/ds-dark.svg';
+import ImgDsDark from 'img/ds-dark.svg';
 
 
 
